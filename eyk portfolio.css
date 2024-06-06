@@ -17,7 +17,7 @@ body {
 <!------- Text -------!>
 h1 {
     text-align: center;
-    font-size: 24pt;
+    font-size: 24px;
     color: #ffffff;
     margin-bottom: .3em;
     text-decoration: underline;
@@ -25,23 +25,21 @@ h1 {
   
 p {
     font-family: Helvetica Neue, Light;
-    font-size: 16pt;
+    font-size: 16px;
     line-height: 1.5;
     color: #ffffff;
 }
 
 h7 {
     text-align: center;
-    font-size: 22pt;
+    font-size: 22px;
     color: #ffffff;
   }
 
 h8 {
     text-align: right;
-    font-size: 48pt;
+    font-size: 40px;
     color: #ffffff;
-    margin-bottom: .3em;
-    text-decoration: underline;
   }
 
   table {
@@ -69,6 +67,13 @@ h8 {
     text-align: center;
 
 <!------- Navigation -------!>
+
+
+  navbar {
+      overflow: hidden;
+      font-family: Arial;
+      font-size: 20px;
+  }
       
   nav ul {
     list-style: none;
