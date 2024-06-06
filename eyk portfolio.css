@@ -30,6 +30,20 @@ p {
     color: #ffffff;
 }
 
+h7 {
+    text-align: center;
+    font-size: 22pt;
+    color: #009;
+  }
+
+h8 {
+    text-align: right;
+    font-size: 48pt;
+    color: #009;
+    margin-bottom: .3em;
+    text-decoration: underline;
+  }
+
   table {
     margin: .3em;
     width: 290px;
