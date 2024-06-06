@@ -15,7 +15,10 @@ h1 {
   }
   
 p {
+    font-family: Helvetica Neue, Light;
     font-size: 16pt;
+    line-height: 1.5;
+    color: #ffffff;
 }
 
   table {
