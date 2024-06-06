@@ -72,10 +72,22 @@ h8 {
   navbar {
       overflow: hidden;
       font-family: Arial;
-      font-size: 20px;
   }
       
-  nav ul {
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: ffffff;
+  text-align: center;
+  padding: 0px 0px;
+  text-decoration: none;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+  text-decoration: underline;
+}
+      
+nav ul {
     list-style: none;
     padding: 0;
     margin: 0;
