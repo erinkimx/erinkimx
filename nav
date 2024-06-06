@@ -1,0 +1,12 @@
+<nav>
+  <ul>
+    <li><a href="#">Work</a></li>
+      <ul>
+        <li><a href="#">Case Study 1</a></li>
+        <li><a href="#">Case Study 2</a></li>
+        <li><a href="#">Case Study 3</a></li>
+      </ul>
+    <li><a href="https://drive.google.com/file/d/1dXGniRSez3tx4_0rKfsb99LcdbHmTDSP/view?usp=sharing">Resume</a></li>
+  </ul>
+</nav>
+  
