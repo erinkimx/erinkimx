@@ -1,17 +1,18 @@
-<!------- Background -------!>
-
-body {
-    background-color: #000000; /* Use any color value you prefer */
+* {
     margin-top: 10px;
     margin-right: 319px;
     margin-bottom: 15px;
     margin-left: 319px;
+    padding: 0;
+    box-sizing: border-box;
 }
 
-
+<!------- Background -------!>
+body {
+    background-color: #000000; /* Use any color value you prefer */
+}
 
 <!------- Text -------!>
-
 h1 {
     text-align: center;
     font-size: 24pt;
