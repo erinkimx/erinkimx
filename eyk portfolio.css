@@ -47,16 +47,16 @@ h8 {
     font-style: normal;
   }
 
-  table {
+table {
     margin: .3em;
     width: 290px;
   }
   
-  th {
+th {
     padding: .2em;
   }
   
-  td {
+td {
     padding-left: .5em;
     padding-right: .5em;
     border: 1px solid #900;
@@ -68,19 +68,19 @@ h8 {
     color: #900;
   }
   
-  .centerCell {
+  centerCell {
     text-align: center;
 
 <!------- Navigation -------!>
 
 
-  navbar {
+navbar {
       overflow: hidden;
       font-family: Arial;
       position: sticky;
   }
       
-.navbar a {
+navbar a {
   float: left;
   font-size: 16px;
   color: ffffff;
@@ -92,11 +92,11 @@ h8 {
   font-style: normal;
 }
 
-.navbar a:hover {
+navbar a:hover {
   text-decoration: underline;
 }
 
-.home-link img {
+home-link img {
     width: 30px; /* Adjust the width and height as needed */
     height: auto;
     vertical-align: middle; /* Align the image vertically */
@@ -141,13 +141,13 @@ nav ul li ul li {
 
 <!------- Homepage Text -------!>
 
-.c-greeting-one {
+c-greeting-one {
     position: relative;
     max-width: 500px;
     height: 27px;
 }
 
-.t-greeting-one {
+t-greeting-one {
     position: absolute;
     top: 50%; /* Adjust as needed */
     left: 50%; /* Center horizontally */
@@ -156,34 +156,34 @@ nav ul li ul li {
 }
     
 
-.occupation-one {
+occupation-one {
     position: absolute;
     top: 100px; /* Adjust as needed */
     left: 50%; /* Center horizontally */
     transform: translateX(-50%); /* Center horizontally */
 }
 
-.occupation-two {
+occupation-two {
     position: absolute;
     top: 100px; /* Adjust as needed */
     left: 50%; /* Center horizontally */
     transform: translateX(-50%); /* Center horizontally */
 }
 
-.c-homepage-body {
+c-homepage-body {
     position: relative;
     max-width: 418px; 
     height: 216;
 }
 
-.t-homepage-body {
+t-homepage-body {
     position: absolute;
     top: 50%; /* Adjust as needed */
     left: 50%; /* Center horizontally */
     transform: translateX(-50%, -50%); /* Center horizontally */
 }
       
-.greeting-two {
+greeting-two {
     position: absolute;
     top: 100px; /* Adjust as needed */
     left: 50%; /* Center horizontally */
