@@ -146,6 +146,8 @@ c-greeting-one {
     position: relative;
     max-width: 500px;
     height: 27px;
+    top: 50%; /* Adjust as needed */
+    left: 50%; /* Center horizontally */
 }
 
 t-greeting-one {
