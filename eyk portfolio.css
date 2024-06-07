@@ -91,8 +91,14 @@ h8 {
   font-style: normal;
 }
 
-.navbar a:hover, .dropdown:hover .dropbtn {
+.navbar a:hover {
   text-decoration: underline;
+}
+
+.home-link img {
+    width: 30px; /* Adjust the width and height as needed */
+    height: auto;
+    vertical-align: middle; /* Align the image vertically */
 }
       
 nav ul {
