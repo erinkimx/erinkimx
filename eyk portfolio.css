@@ -170,7 +170,20 @@ nav ul li ul li {
     transform: translateX(-50%); /* Center horizontally */
 }
 
-.greeting-one {
+.c-homepage-body {
+    position: absolute;
+    max-width: 418px; 
+    height: 216;
+}
+
+.t-homepage-body {
+    position: absolute;
+    top: 100px; /* Adjust as needed */
+    left: 50%; /* Center horizontally */
+    transform: translateX(-50%); /* Center horizontally */
+}
+      
+.greeting-two {
     position: absolute;
     top: 100px; /* Adjust as needed */
     left: 50%; /* Center horizontally */
