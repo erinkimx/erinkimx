@@ -11,7 +11,7 @@
 <!------- Background -------!>
 body {
     background-color: #000000; /* Use any color value you prefer */
-    color: #000000;
+    color: #ffffff;
 }
 
 <!------- Text -------!>
@@ -61,15 +61,16 @@ td {
     padding-right: .5em;
     border: 1px solid #900;
     background-color: #ffc;
-  }
+}
   
   #trHeader {
     text-decoration: underline;
     color: #900;
-  }
+}
   
   centerCell {
     text-align: center;
+}
 
 <!------- Navigation -------!>
 
@@ -137,7 +138,7 @@ nav ul li:hover > ul {
 nav ul li ul li {
     display: block;
     
-  }
+}
 
 <!------- Homepage Text -------!>
 
